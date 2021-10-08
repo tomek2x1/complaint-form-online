@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/complaint-form-online/static/css/main.82fbf429.chunk.css",
+    "main.js": "/complaint-form-online/static/js/main.01c6390c.chunk.js",
+    "main.js.map": "/complaint-form-online/static/js/main.01c6390c.chunk.js.map",
+    "runtime-main.js": "/complaint-form-online/static/js/runtime-main.480ffc05.js",
+    "runtime-main.js.map": "/complaint-form-online/static/js/runtime-main.480ffc05.js.map",
+    "static/js/2.4a7b9290.chunk.js": "/complaint-form-online/static/js/2.4a7b9290.chunk.js",
+    "static/js/2.4a7b9290.chunk.js.map": "/complaint-form-online/static/js/2.4a7b9290.chunk.js.map",
+    "static/js/3.dd2e3a5d.chunk.js": "/complaint-form-online/static/js/3.dd2e3a5d.chunk.js",
+    "static/js/3.dd2e3a5d.chunk.js.map": "/complaint-form-online/static/js/3.dd2e3a5d.chunk.js.map",
+    "index.html": "/complaint-form-online/index.html",
+    "static/css/main.82fbf429.chunk.css.map": "/complaint-form-online/static/css/main.82fbf429.chunk.css.map",
+    "static/js/2.4a7b9290.chunk.js.LICENSE.txt": "/complaint-form-online/static/js/2.4a7b9290.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.480ffc05.js",
+    "static/js/2.4a7b9290.chunk.js",
+    "static/css/main.82fbf429.chunk.css",
+    "static/js/main.01c6390c.chunk.js"
+  ]
+}
